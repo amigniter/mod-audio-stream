@@ -1,0 +1,20 @@
+Origin: mod-audio-stream
+Label: mod-audio-stream
+Suite: stable
+Codename: bookworm
+Date: Thu, 28 Nov 2024 21:20:23 UTC
+Architectures: amd64
+Components: main
+Description: Debian x64 github repository
+MD5Sum:
+ 7f81404a8fa4e058f48142c9abfc8277 699 main/binary-amd64/Packages
+ db938f47ba7a1a5fee73624af7541124 481 main/binary-amd64/Packages.gz
+ 3198c292300fae4d6ee393ecc40d60ca 143 main/binary-amd64/Release
+SHA1:
+ 238534bd01ad89ed0158a7fb300cdb0981c12ccb 699 main/binary-amd64/Packages
+ 4b5261ec50816edcacce64f5d8a04626e81c3720 481 main/binary-amd64/Packages.gz
+ 5bcba73ad6a83bc50b75a0330e28d520e9ba1c61 143 main/binary-amd64/Release
+SHA256:
+ 3d945cbe66e2b52998b47d451b007317d20d2cf293cbfdf3c21b58788b7d3b08 699 main/binary-amd64/Packages
+ 846a4196918324bbf3630526ace96ab0c816f7591ff18043af5c0f95e714d6d2 481 main/binary-amd64/Packages.gz
+ 690a707349b21d67e15dbc53f1ecaa599284acbe0667d25f8bbfcb2775767f6c 143 main/binary-amd64/Release

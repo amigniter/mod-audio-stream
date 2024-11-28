@@ -1,0 +1,18 @@
+Package: mod-audio-stream
+Architecture: amd64
+Depends: libc6, libspeexdsp1, openssl, zlib1g, libfreeswitch1
+Priority: 0
+Section: utils
+Filename: pool/main/m/mod-audio-stream/mod-audio-stream_1.0.0_amd64.deb
+Size: 152880
+SHA256: 49d020313dd3d57fd7b2ae71157b15859638780a4e3d00a4a5ac4bea3a9f2678
+SHA1: 7ea95252d646a521a34e83ef360583c0126f5105
+MD5sum: b0521d399ab70b76439d2d33690db2c3
+Description: Audio streaming module for FreeSWITCH.
+ This module allows audio streaming from FreeSWITCH to WebSocket servers, 
+ enabling real-time audio processing and forwarding.
+Homepage: https://github.com/amigniter/mod_audio_stream
+Maintainer: Milan M. <amsoftswitch@gmail.com>
+Version: 1.0.0
+Installed-Size: 386
+

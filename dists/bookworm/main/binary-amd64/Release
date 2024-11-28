@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: mod-audio-stream
+Label: mod-audio-stream
+Architecture: amd64
+Description: Debian x64 github repository

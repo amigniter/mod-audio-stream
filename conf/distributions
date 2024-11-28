@@ -1,0 +1,8 @@
+Origin: mod-audio-stream
+Label: mod-audio-stream
+Suite: stable
+Codename: bookworm
+Architectures: amd64
+Components: main
+Description: Debian x64 github repository
+SignWith: 61C547079782ED3E
